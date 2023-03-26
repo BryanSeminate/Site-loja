@@ -2,7 +2,7 @@
 <h1 align="center"> Barbearia Alura</h1>
 
 <p align="center"> Página do dashboard: </p>
-<img src="\assets\fotos\Imagem1.jpg">
+<img src="assets\fotos\Imagem1.jpg">
 
 ---
 
