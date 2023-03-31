@@ -3,6 +3,9 @@
 <p align="center"> <img src=assets/img/logo.svg?raw=true" alt="Logo da alura plus"> </p>
 <p align="center">Um site para divulgação de show e produtos a ser vendidos.</p>
 
+## Link
+https://bryanseminate.github.io/Site-loja/index.html
+
 ## Screenshots
 <img src="assets\fotos\Imagem1.jpg">
 
