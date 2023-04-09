@@ -4,7 +4,7 @@
 <p align="center">Um site para divulgação de show e produtos a ser vendidos.</p>
 
 ## Link
-https://bryanseminate.github.io/Site-loja/index.html
+https://bryanseminate.github.io/Site-loja/
 
 ## Screenshots
 <img src="assets\fotos\Imagem1.jpg">
